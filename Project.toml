@@ -1,0 +1,14 @@
+name = "ZODATensor"
+uuid = "346399ca-3e30-4efb-90a1-1b446b4a5427"
+authors = ["angeris <guille@angeris.net>"]
+version = "0.1.0"
+
+[deps]
+BatchedMerkleTree = "225b011c-e439-4471-b39b-04a9a0fe32f0"
+BinaryFields = "0fee9d7f-8397-4f0d-9ec6-117db1666467"
+BinaryReedSolomon = "8a283c49-c6d0-46c5-bbc1-5b2a51f34960"
+
+[compat]
+BatchedMerkleTree = "0.1.0"
+BinaryFields = "0.1.0"
+BinaryReedSolomon = "0.1.0"
